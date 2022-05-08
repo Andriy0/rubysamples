@@ -1,3 +1,3 @@
 # rubysamples
 
-Learning samples from "The Well-Grounded Rubyist" book.
+Learning samples, mostly from "The Well-Grounded Rubyist" book.
